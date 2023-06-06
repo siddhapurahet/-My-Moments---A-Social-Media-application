@@ -1,0 +1,23 @@
+--> React Libraries : 
+
+axios - for making API request.
+moment  - for working with time and date.
+react-file-base64- used to convert the images to base 64.
+redux - for state management.
+redux-thunk - used for asynchronous action with redux.
+
+
+--> Node Libraries :
+
+nodemon
+mongoose
+express
+cors
+
+--> Redux libraries :
+
+Provider
+createStore
+applyMiddleware
+compose
+thunk
